@@ -35,7 +35,7 @@ STOCKAGE_FILE_APIKEY = "Algolia.ini"
 # Extra tag that will be added to the scene
 FIXED_TAG = ""
 # Include non female performers
-NON_FEMALE = True
+NON_FEMALE = False
 
 # a dict with sites having movie sections
 # used when populating movie urls from the scene scraper
